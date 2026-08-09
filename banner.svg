@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="EncapsulatorP — computational number theory">
+  <defs>
+    <linearGradient id="prism" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF2E8B"></stop>
+      <stop offset="0.33" stop-color="#8766FF"></stop>
+      <stop offset="0.66" stop-color="#12CBB6"></stop>
+      <stop offset="1" stop-color="#B6F000"></stop>
+    </linearGradient>
+    <pattern id="bars" width="61" height="340" patternUnits="userSpaceOnUse">
+      <rect x="0" width="7" height="340" fill="#ffffff"></rect>
+      <rect x="12" width="3" height="340" fill="#ffffff"></rect>
+      <rect x="27" width="13" height="340" fill="#ffffff"></rect>
+      <rect x="45" width="4" height="340" fill="#ffffff"></rect>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="340" fill="#0B0708"></rect>
+  <rect width="1280" height="340" fill="url(#bars)" opacity="0.06"></rect>
+
+  
+  <text x="72" y="96" fill="#FF4D6D" font-family="&#39;IBM Plex Mono&#39;, ui-monospace, monospace" font-size="18" letter-spacing="4" font-weight="600">COMPUTATIONAL NUMBER THEORY · ONE LONG OBSESSION</text>
+
+  
+  <text x="70" y="212" font-family="&#39;Fraunces&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-size="128" font-weight="700" letter-spacing="-4">
+    <tspan fill="#FFFFFF">Encapsulator</tspan><tspan fill="url(#prism)">P</tspan>
+  </text>
+
+  
+  <text x="72" y="270" fill="#E9D9C0" font-family="&#39;Fraunces&#39;, Georgia, serif" font-size="26" font-style="italic">Hard problems, encapsulated.</text>
+
+  
+  <text x="72" y="308" fill="#C7FF48" font-family="&#39;IBM Plex Mono&#39;, ui-monospace, monospace" font-size="15" letter-spacing="1">experimental number theory · dynamical systems · honest labels</text>
+
+  
+  <rect x="0" y="336" width="1280" height="4" fill="url(#prism)"></rect>
+</svg>
