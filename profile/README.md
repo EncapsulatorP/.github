@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="EncapsulatorP — computational number theory" width="100%">
+<img src="banner.svg" alt="EncapsulatorP — computational number theory" width="100%">
 
 
 # EncapsulatorP
