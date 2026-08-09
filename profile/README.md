@@ -4,6 +4,20 @@
 
 EncapsulatorP is the research organization for a collection of computational experiments, mathematical diagnostics and research tooling.
 
+**[Explore the research → encapsulatorp.github.io](https://encapsulatorp.github.io/)**
+
+## Research programs
+
+- Collatz & dynamical systems
+- Prime structure & additive number theory
+- Tetration & hyperoperations
+- Spectral / complex systems
+- Research tooling
+
+
+# Explore
+
+
 **[Explore the research site → encapsulatorp.github.io](https://encapsulatorp.github.io/)**
 
 ## Research programs
