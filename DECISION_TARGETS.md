@@ -1,6 +1,6 @@
 # Decision Targets — Next treasures hunt planning
 
-**21 November 2026 · All 32 EncapsulatorP repositories · 43 typed connections**
+**21 November 2026 · All 32 EncapsulatorP repositories · 55 typed connections**
 
 [Open Pirates Plan](https://encapsulatorp.github.io/#pirates-plan) · [Complete plan and edge ledger](https://github.com/EncapsulatorP/EncapsulatorP.github.io/blob/main/planning/next-treasures-hunt.md) · [Editable planning Page](https://chatgpt.com/space/page_39c69fa6cd188191a9de30b945850662)
 
@@ -107,9 +107,34 @@ Meaningfulness (M), importance (I) and ROI (R) are independent judgments on a 1�
 
 ## The connections have work attached
 
-Every connection has an explicit mechanism, source evidence, next experiment, output and review window. Existing navigation, shared mathematical objects, proposed reuse and analogies are distinct. The inspected optional Goldbach tower adapter points to a checkout not identified on the current public boundary repo branch.
+Every connection has an explicit mechanism, source evidence, known basis, open question, next experiment, output and review window. Existing navigation, shared mathematical objects, proposed reuse and analogies are distinct. The map now contains 16 known/documented bases (solid cyan), 31 proposed connections (long gold dashes) and 8 speculative bridges (purple dots). A documented shared object is not automatically a proved cross-repository implication. The inspected optional Goldbach tower adapter points to a checkout not identified on the current public boundary repo branch.
 
-[Explore all 43 connections](https://encapsulatorp.github.io/#repo-interlinks) · [Search all repositories](https://encapsulatorp.github.io/#repo-register)
+[Explore all 55 connections](https://encapsulatorp.github.io/#repo-interlinks) · [Search all repositories](https://encapsulatorp.github.io/#repo-register)
+
+## Pirate paths
+
+Orange dash-dot arrows show suggested work order, with numbered stops and advance/pivot gates. They are separate from the mathematical/evidence connections.
+
+### [Next treasures · first expedition](https://encapsulatorp.github.io/#pirates-plan?path=next-treasures)
+
+A suggested work order through seven bounded treasures. Orange dash-dot arrows mean visit next when the gate permits; they are not mathematical implications or implemented dependencies. The final physics stop is conditional.
+
+1. **Make the geometry trustworthy** — `collatz_rupert_delay_embedding` (S1). Save an independently checked positive-clearance cube passage, repair translation handling, and add the exact Noperthedron control. Gate: Translation covariance and strictness pass before larger scans; a search miss retains its unresolved status.
+2. **Give the result a proof record** — `Validatron` (S1). Preserve source, statement, assumptions, witness/checker output and the separate three-affine-line Collatz lemma. Gate: Numerical witnesses and formal proofs retain distinct states. Pending Lean integration need not block a checked empirical capsule.
+3. **Bank an exact arithmetic result** — `goldbach_busy_collatz` (S2). Independently reproduce a small exact count, CRT and χ4 evidence capsule. Gate: Exact direct enumeration agrees and provenance is complete. The unresolved optional tower adapter is a separate target.
+4. **Name the map and its clock** — `collatz_lift` (S3). Reconcile written and implemented gates, branch conventions and standard/accelerated clocks before comparing growth or roots. Gate: A tiny saved trajectory and derivative fixture reproduce the declared map; analytic root checks use a valid unclipped domain.
+5. **Connect Newton and growth instruments** — `prime-tower-diagnostics` (S3). Reproduce one Newton–Collatz finite-time growth comparison with fixed horizon, normalization, escape handling and null controls. Gate: If the visible signal vanishes under controls, retain the negative result and reusable instrument.
+6. **Extract one exact tower identity** — `c3._2z` (S4). Publish an exact logarithmic transport/layer-order fixture with explicit base, units and representation controls. Gate: An independent computation reproduces the identity; tower decomposition is an optional comparison with its own input family.
+7. **Open a bounded physics experiment** — `rolt-phi-kappa3_expand` (S6). Measure depth versus stability/decay at matched noise and resources, linked to the recovered physics notebook. Gate: Enter after choosing the model, objective and baseline. Synthetic DNA and LiDAR remain separate scoped follow-on experiments.
+
+### [Newton → growth → a sensing test](https://encapsulatorp.github.io/#pirates-plan?path=newton-lidar)
+
+A proposed connected expedition along E42, E53 and E44. Begin after the first Rupert control work and the numerical-contract gate. The last step is a synthetic sensing hypothesis, not a demonstrated LiDAR advantage.
+
+1. **Recover the Newton trace** — `prime_tower_decomposition` (S3). Reproduce the cubic-roots-of-unity control and retain residual, step-size and derivative-stress traces. Gate: The named control agrees with its definition; shock intensity is kept distinct from a Lyapunov exponent.
+2. **Apply it to a declared function** — `collatz_lift` (S3). Export Newton traces on one small unclipped lift domain, with derivative failures and converged roots labeled. Gate: The observable, clock, branch and analytic domain are explicit.
+3. **Calibrate the growth report** — `prime-tower-diagnostics` (S3). Compare raw growth and actual horizon on the same polynomial and starting points before any common color scale. Gate: Normalization, derivative floor, clipping and escape masks are visible; record the reason if the instruments disagree.
+4. **Try a synthetic ranging signal** — `c3._2z` (S6). Encode a saved trajectory as a bounded optical phase waveform and estimate a delayed noisy return. Gate: Any improvement must survive matched energy, bandwidth and noise controls. Retain a null result; no hardware performance is claimed.
 
 ## Research routes
 
@@ -120,6 +145,8 @@ Every connection has an explicit mechanism, source evidence, next experiment, ou
 - **[Character channels → operators → spectra](https://encapsulatorp.github.io/#pirates-plan?route=R5)** — Which χ4/beta identities are exact, and which operator or spectral links remain to be built?
 - **[Memory → stability/decay → biophysics and LiDAR](https://encapsulatorp.github.io/#pirates-plan?route=R6)** — Can a layered model improve retained information or a sensing objective under matched resources?
 - **[Exact small wins → reusable research tools](https://encapsulatorp.github.io/#pirates-plan?route=R7)** — Which small result can save repeated implementation and checking across the whole portfolio?
+
+- **[Newton shocks → trustworthy growth → a sensing test](https://encapsulatorp.github.io/#pirates-plan?route=R8)** — Which dynamical structure survives a common numerical contract and helps a declared sensing objective?
 
 ## Decision Targets
 
@@ -177,6 +204,12 @@ At each stage gate, spend at most 30 minutes updating the two active capsules, s
 Move the antiverse organization decision to the immediate queue: prepare relocation to the physics organization and review the name. “Formal witness dynamics” is a descriptive working label only. Retain the current private repository ID, URL and source history until an actual transfer or rename is verified. Preserve the sound kernel and exact local examples; park the universal generator and continuous polarity calculus. Validatron/Obstruction reuse remains optional from S5.
 
 **Gate (S0 · immediate organization decision):** Record the exact destination organization slug and the naming choice, then complete the migration, redirect, access and search-link audit. No destination organization is inferred from the recovered private physics notebook. The current inventory remains 32; after verified transfer, represent the source as an external physics bridge, update its links and adjust the organization count.
+
+### D10 · Draw the unknown links and the next expedition
+
+Show documented, proposed and speculative connections with distinct colors and line patterns. Give every edge its known basis, open question and finite next probe. Overlay a numbered Pirate path for the next work without turning work order into a mathematical implication.
+
+**Gate:** A known label states the exact scope of source evidence. A proved implication requires an actual proof artifact and its assumptions; no shared-object or numerical-match edge receives that status automatically. Speculative edges remain visible and inspectable.
 
 ## Maintenance
 
