@@ -11,11 +11,19 @@ EncapsulatorP explores mathematical structures through exact arguments, computat
 
 [![Omega Stability — research atlas](https://encapsulatorp.github.io/assets/omega-stability-thread-cover.png)](https://encapsulatorp.github.io/#atlas)
 
-**[Enter the research atlas →](https://encapsulatorp.github.io/#atlas)** · 45 source-linked threads, working exhibits, written arguments and next proof questions.
+**[Enter the research atlas →](https://encapsulatorp.github.io/#atlas)** · source-linked threads, working exhibits, written arguments and next proof questions.
 
 Start with [Omega Stability](https://encapsulatorp.github.io/#atlas?entry=omega-stability), [prime-layer waves](https://encapsulatorp.github.io/#atlas?entry=prime-layer-waves), the [sharp tower envelope](https://encapsulatorp.github.io/#atlas?entry=tower-envelope), or [Catalan’s beta disk](https://encapsulatorp.github.io/#atlas?entry=beta-catalan-disk).
 
-**[The Pirate Chest — Astral Secrets](https://encapsulatorp.github.io/#pirate-chest)** · Brun crossings, dagger towers and research treasures. Open a thread and follow the mathematics.
+**[The Pirate Chest — Orbital Treasures](https://encapsulatorp.github.io/#pirate-chest)** · Brun crossings, dagger towers and research treasures. Open a thread and follow the mathematics.
+
+## Pirates Plan · organization Decision Targets
+
+**[Next treasures hunt planning →](https://encapsulatorp.github.io/#pirates-plan)**
+
+The complete 32-repository portfolio: searchable purposes, 43 typed connections, seven research routes, ranked targets, effort estimates and staged decision gates. Follow a repository to the reason it connects, the source evidence and the next work.
+
+[Full organization decision register](https://github.com/EncapsulatorP/.github/blob/main/DECISION_TARGETS.md) · [Search repositories](https://encapsulatorp.github.io/#repo-register) · [Explore the graph](https://encapsulatorp.github.io/#repo-interlinks)
 
 ## Mathematical research programs
 
@@ -25,7 +33,7 @@ Start with [Omega Stability](https://encapsulatorp.github.io/#atlas?entry=omega-
 * [collatz_kesten-goldie](https://github.com/EncapsulatorP/collatz_kesten-goldie) — stochastic affine-recursion regimes
 * [collatz_rupert_delay_embedding](https://github.com/EncapsulatorP/collatz_rupert_delay_embedding) — delay embeddings and geometric structure
 * [Complex Collatz extensions](https://encapsulatorp.github.io/#atlas?entry=collatz-integer-spine) — exact integer agreement and complex dynamics
-* [collatz_backoff](https://github.com/EncapsulatorP/collatz_backoff) — alternative Collatz dynamics
+* [collatz_backoff](https://github.com/EncapsulatorP/collatz_backoff) — affine-permutation retry scheduling
 
 ### Prime structure & additive number theory
 
@@ -81,3 +89,4 @@ Research direction and original explorations: **Zolton aka Inge / EncapsulatorP*
 
 Sol.6.1 · GPT Sol and Zolton · GPT and Codex · Claude · Gemini (Neon) · Neo.
 Their source credits and existing signatures remain attached to their work.
+
