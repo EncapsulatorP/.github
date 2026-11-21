@@ -15,7 +15,7 @@ EncapsulatorP explores mathematical structures through exact arguments, computat
 
 Start with [Omega Stability](https://encapsulatorp.github.io/#atlas?entry=omega-stability), [prime-layer waves](https://encapsulatorp.github.io/#atlas?entry=prime-layer-waves), the [sharp tower envelope](https://encapsulatorp.github.io/#atlas?entry=tower-envelope), or [Catalan’s beta disk](https://encapsulatorp.github.io/#atlas?entry=beta-catalan-disk).
 
-**[Buried Chat Stories](https://encapsulatorp.github.io/#buried-chat-stories)** · The research conversations behind the calculations, experiments and open questions.
+**[The Pirate Chest — Astral Secrets](https://encapsulatorp.github.io/#pirate-chest)** · Brun crossings, dagger towers and research treasures. Open a thread and follow the mathematics.
 
 ## Research programs
 
