@@ -7,6 +7,8 @@ EncapsulatorP is the research organization for a collection of computational exp
 
 **[Explore the research → encapsulatorp.github.io](https://encapsulatorp.github.io/)**
 
+**[Buried Chat Stories](https://encapsulatorp.github.io/#buried-chat-stories)** · The research conversations behind the calculations, experiments and open questions.
+
 ## Research programs
 
 - Collatz & dynamical systems
