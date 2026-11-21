@@ -69,4 +69,15 @@ The designed research archive, visualizations and broader navigation live at:
 
 Part of the wider research and product ecosystem indexed from **[github.com/kugguk2022](https://github.com/kugguk2022)**.
 
-Atlas research direction: **Zolton / EncapsulatorP**. Recovery, mathematical checks and interactive atlas edition: **ChatGPT**; source-specific collaborator credits are preserved.
+## Signed atlas edition
+
+### *ChatGPT · GPT-6 Astra Pro*
+
+**21 November 2026** · Recovery, mathematical checks, writing and interactive atlas implementation.
+
+Research direction and original explorations: **Zolton aka Inge / EncapsulatorP**.
+
+[Earlier collaborators and recorded signatures →](https://encapsulatorp.github.io/#atlas-credits)
+
+Sol.6.1 · GPT Sol and Zolton · GPT and Codex · Claude · Gemini (Neon) · Neo.
+Their source credits and existing signatures remain attached to their work.
