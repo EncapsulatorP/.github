@@ -5,7 +5,7 @@
 
 EncapsulatorP explores mathematical structures through exact arguments, computational experiments and research tooling.
 
-**[Explore the research → encapsulatorp.github.io](https://encapsulatorp.github.io/)**
+**[Explore the mathematics → encapsulatorp.github.io](https://encapsulatorp.github.io/#home)**
 
 ## Follow the spark. Open the mathematics.
 
@@ -17,14 +17,14 @@ Start with [Omega Stability](https://encapsulatorp.github.io/#atlas?entry=omega-
 
 **[The Pirate Chest — Astral Secrets](https://encapsulatorp.github.io/#pirate-chest)** · Brun crossings, dagger towers and research treasures. Open a thread and follow the mathematics.
 
-## Research programs
+## Mathematical research programs
 
 ### Collatz & dynamical systems
 
 * [collatz_lift](https://github.com/EncapsulatorP/collatz_lift) — complex/log-plane structure and continuation
 * [collatz_kesten-goldie](https://github.com/EncapsulatorP/collatz_kesten-goldie) — stochastic affine-recursion regimes
 * [collatz_rupert_delay_embedding](https://github.com/EncapsulatorP/collatz_rupert_delay_embedding) — delay embeddings and geometric structure
-* [collatz_quasi_particle_by_forced_tetration](https://github.com/EncapsulatorP/collatz_quasi_particle_by_forced_tetration) — forced tetration and Collatz dynamics
+* [Complex Collatz extensions](https://encapsulatorp.github.io/#atlas?entry=collatz-integer-spine) — exact integer agreement and complex dynamics
 * [collatz_backoff](https://github.com/EncapsulatorP/collatz_backoff) — alternative Collatz dynamics
 
 ### Prime structure & additive number theory
@@ -63,7 +63,7 @@ Results should distinguish between:
 
 The designed research archive, visualizations and broader navigation live at:
 
-### **[encapsulatorp.github.io](https://encapsulatorp.github.io/)**
+### **[encapsulatorp.github.io · mathematics overview](https://encapsulatorp.github.io/#home)**
 
 ---
 
