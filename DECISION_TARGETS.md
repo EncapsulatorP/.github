@@ -8,15 +8,15 @@ The public website is the canonical searchable graph and work queue. This organi
 
 ## Work sequence
 
-Planning assumption: 12 focused hours per week, with at most two active research capsules. Each two-week window has 18 hours of planned work and 6 hours for review or overruns. Stage labels on repositories, routes and edges are earliest review windows, not completion commitments. First-target effort totals 222–436 hours across the whole queue; these twelve weeks provide 108 planned hours plus 36 buffer hours. First-target effort bands sum to more than this quarter's capacity, so lower-ranked work advances only when a gate passes or a slot opens. No paid compute is committed by this plan.
+Planning assumption: 12 focused hours per week, with at most two active research capsules. Each two-week window has 18 hours of planned work and 6 hours for review or overruns. Stage labels on repositories, routes and edges are earliest review windows, not completion commitments. First-target effort totals 219–430 hours across the whole queue; these twelve weeks provide 108 planned hours plus 36 buffer hours. First-target effort bands sum to more than this quarter's capacity, so lower-ranked work advances only when a gate passes or a slot opens. No paid compute is committed by this plan.
 
 ### S0 · Land the map
 
 **21–22 November 2026**
 
-Publish all 32 repo purposes, typed links, searchable routes, the ranked queue and this decision record.
+Publish all 32 repo purposes, typed links, searchable routes, the ranked queue and this decision record. Immediate organization decision: queue the private antiverse physics relocation and record the destination/naming choice before any transfer or rename.
 
-**Gate:** Inventory coverage is exact; every repo has a next target and at least one explanatory link; the public room and owner Page are readable.
+**Gate:** Inventory coverage is exact; every repo has a next target and at least one explanatory link; the public room and owner Page are readable. Relocation remains pending until the destination and migration audit are recorded; change the inventory only after verified transfer.
 
 ### S1 · Restart Rupert; give proofs a shared contract
 
@@ -54,9 +54,9 @@ Choose the c3._2z logarithmic transport fixture and one zp-program conditional t
 
 **18–31 January 2027**
 
-Primary: tiny Mertens lattice/reference agreement. Sidecar: the exact antiverse assumption-change example and an Obstruction-Theory ledger. Review the ranked prime/search/backoff queue and select at most one additional probe if a slot opens.
+Primary: tiny Mertens lattice/reference agreement. Sidecar: an Obstruction-Theory ledger. The retained exact antiverse assumption-change example is an optional downstream fixture only after its immediate physics-relocation decision and migration audit are settled. Review the ranked prime/search/backoff queue and select at most one additional probe if a slot opens.
 
-**Gate:** Candidate search, checked witness and proved bound remain distinct. A comparison uses equal budgets and an explicit baseline. Publish a keep/pivot/archive decision for every executed probe.
+**Gate:** Candidate search, checked witness and proved bound remain distinct. A comparison uses equal budgets and an explicit baseline. Publish a keep/pivot/archive decision for every executed probe. Any antiverse-derived fixture is optional, keeps its pinned provenance and private-access requirements, and starts only after the relocation decision is settled and capacity is available.
 
 ### S6 · Open physics and biophysics deliberately
 
@@ -89,8 +89,8 @@ Meaningfulness (M), importance (I) and ROI (R) are independent judgments on a 1�
 | 15 | [prime_tower_decomposition](https://github.com/EncapsulatorP/prime_tower_decomposition) · [S4 plan](https://encapsulatorp.github.io/#pirates-plan?repo=prime_tower_decomposition) · private | Decimal prime-factor depths, logarithmic tower echoes and mirror/Newton diagnostics | P2 | 4/4/4 | Publish explicit representation/unit/base contracts and one matched non-mirror control; extract a small tested log-remainder/valuation fixture for reuse. |
 | 16 | [Catalan_ruelle_mayer](https://github.com/EncapsulatorP/Catalan_ruelle_mayer) · [S4 plan](https://encapsulatorp.github.io/#pirates-plan?repo=Catalan_ruelle_mayer) · public | Exploratory Catalan/polylog channels, pressure proxies and reproducible visuals | P2 | 4/4/3 | Promote exact beta/polylog finite identities to a small capsule; label cutoff dependence of pressure plots and write the missing operator/trace obligations. |
 | 17 | [mertens_counterexamples](https://github.com/EncapsulatorP/mertens_counterexamples) · [S5 plan](https://encapsulatorp.github.io/#pirates-plan?repo=mertens_counterexamples) · private | Lattice-based Mertens counterexample candidate search and matroid views | P2 | 5/4/3 | Validate tiny exact CVP instances and Python/C++ radius/ordering agreement; preserve input precision and candidate-to-certified-bound distinction before larger BKZ runs. |
-| 18 | [antiverse](https://github.com/EncapsulatorP/antiverse) · [S5 plan](https://encapsulatorp.github.io/#pirates-plan?repo=antiverse) · private | Assumption changes, proof-relative anti-theorems and surviving structures | P2 | 5/4/5 | Formalize the partial-order/preorder least-element example with variant lineage; use it to test Validatron distinguishes proof failure, countermodel and repaired theorem. |
-| 19 | [Obstruction-Theory](https://github.com/EncapsulatorP/Obstruction-Theory) · [S5 plan](https://encapsulatorp.github.io/#pirates-plan?repo=Obstruction-Theory) · private | Crossdomain obstruction theory seed | P2 | 5/4/4 | Create a typed obstruction ledger with one exact antiverse case, one finite Recamán case and one bounded Diophantine case; record why their obstruction notions differ. |
+| 18 | [antiverse](https://github.com/EncapsulatorP/antiverse) · [S0 plan](https://encapsulatorp.github.io/#pirates-plan?repo=antiverse) · private | Formal witness dynamics · physics relocation queued; retain the exact assumption-change kernel and local examples. | P2 | 5/4/5 | Prepare the physics migration, redirect and search-link audit now: record the exact destination organization and naming choice; map current repository, atlas, Page, graph and code-search references to their intended destinations; preserve source history, private access and the exact local witnesses. Actual transfer or rename follows the destination decision. Optional Validatron/Obstruction witness reuse is reviewed from S5, after relocation is settled. |
+| 19 | [Obstruction-Theory](https://github.com/EncapsulatorP/Obstruction-Theory) · [S5 plan](https://encapsulatorp.github.io/#pirates-plan?repo=Obstruction-Theory) · private | Crossdomain obstruction theory seed | P2 | 5/4/4 | Create a typed obstruction ledger with one exact assumption-change case, one finite Recamán case and one bounded Diophantine case; record why their obstruction notions differ. The retained antiverse witness is an optional downstream source after its physics relocation is settled. |
 | 20 | [collatz_backoff](https://github.com/EncapsulatorP/collatz_backoff) · [S5 plan](https://encapsulatorp.github.io/#pirates-plan?repo=collatz_backoff) · public | Collatz-seeded affine-permutation retry scheduling demo | P2 | 3/3/5 | Use the modular bijection as a small Validatron theorem fixture and run a bounded retry benchmark against random and deterministic baselines. |
 | 21 | [NT_goldbachy_disastrous_cake](https://github.com/EncapsulatorP/NT_goldbachy_disastrous_cake) · [S5 plan](https://encapsulatorp.github.io/#pirates-plan?repo=NT_goldbachy_disastrous_cake) · private | Reusable analytic/arithmetic number-theory modules and toy models | P2 | 4/4/4 | Select exact arithmetic and Hardy-Z helpers; add bounded reference fixtures and export contracts, then propose reuse in Goldbach/GUE without coupling unrelated toy ODEs. |
 | 22 | [prime-polarity](https://github.com/EncapsulatorP/prime-polarity) · [S5 plan](https://encapsulatorp.github.io/#pirates-plan?repo=prime-polarity) · public | Prime/composite separation benchmark | P2 | 4/3/4 | Freeze odd-only and coprime held-out windows, tie-aware AUC, modular and shuffled controls; record runtime and uncertainty. |
@@ -171,6 +171,12 @@ At each stage gate, spend at most 30 minutes updating the two active capsules, s
 
 **Gate:** A new active target displaces or finishes an old one; the dated plan is a human work queue, not an automatic execution schedule.
 
+
+### D09 · Queue the formal-witness thread for physics relocation
+
+Move the antiverse organization decision to the immediate queue: prepare relocation to the physics organization and review the name. “Formal witness dynamics” is a descriptive working label only. Retain the current private repository ID, URL and source history until an actual transfer or rename is verified. Preserve the sound kernel and exact local examples; park the universal generator and continuous polarity calculus. Validatron/Obstruction reuse remains optional from S5.
+
+**Gate (S0 · immediate organization decision):** Record the exact destination organization slug and the naming choice, then complete the migration, redirect, access and search-link audit. No destination organization is inferred from the recovered private physics notebook. The current inventory remains 32; after verified transfer, represent the source as an external physics bridge, update its links and adjust the organization count.
 
 ## Maintenance
 
