@@ -1,4 +1,4 @@
-<a href="https://encapsulatorp.github.io/#atlas"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/hero.svg" width="100%" alt="EncapsulatorP research atlas. Follow the spark. Open the mathematics."></a>
+<a href="https://encapsulatorp.github.io/#atlas"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/hero.svg" width="100%" alt="EncapsulatorP research atlas. Follow the spark. Open the mathematics."></a>
 
 <p align="center">
 <b><a href="https://encapsulatorp.github.io/#atlas">Research atlas</a></b> ·
@@ -38,24 +38,24 @@ Ranked by three things: the statement is exact, the proof is written down, and i
 
 ## See it move
 
-<a href="https://encapsulatorp.github.io/#towers"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/towers.svg" width="100%" alt="Sign-flipping towers: two phases, a sharp maximum, and two bases for every smaller excess"></a>
+<a href="https://encapsulatorp.github.io/#towers"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/towers.svg" width="100%" alt="Sign-flipping towers: two phases, a sharp maximum, and two bases for every smaller excess"></a>
 
 <table>
 <tr>
-<td width="50%"><a href="https://encapsulatorp.github.io/#atlas?entry=prime-layer-waves"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/prime-layers.svg" width="100%" alt="Swapping two prime layers changes the quadratic response"></a></td>
-<td width="50%"><a href="https://encapsulatorp.github.io/#atlas?entry=logistic-quarter-turn"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/logistic.svg" width="100%" alt="Logistic map: the two-cycle response matrix squares to minus the identity at r = 1 + sqrt 6"></a></td>
+<td width="50%"><a href="https://encapsulatorp.github.io/#atlas?entry=prime-layer-waves"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/prime-layers.svg" width="100%" alt="Swapping two prime layers changes the quadratic response"></a></td>
+<td width="50%"><a href="https://encapsulatorp.github.io/#atlas?entry=logistic-quarter-turn"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/logistic.svg" width="100%" alt="Logistic map: the two-cycle response matrix squares to minus the identity at r = 1 + sqrt 6"></a></td>
 </tr>
 <tr>
-<td><a href="https://encapsulatorp.github.io/#goldbach"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/goldbach.svg" width="100%" alt="The six prime pairs of 100 as mirror arcs about the centre 50"></a></td>
-<td><a href="https://encapsulatorp.github.io/#atlas?entry=beta-catalan-disk"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/beta-disk.svg" width="100%" alt="Catalan's constant at the centre of the beta disk"></a></td>
+<td><a href="https://encapsulatorp.github.io/#goldbach"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/goldbach.svg" width="100%" alt="The six prime pairs of 100 as mirror arcs about the centre 50"></a></td>
+<td><a href="https://encapsulatorp.github.io/#atlas?entry=beta-catalan-disk"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/beta-disk.svg" width="100%" alt="Catalan's constant at the centre of the beta disk"></a></td>
 </tr>
 <tr>
-<td><a href="https://encapsulatorp.github.io/#kesten-goldie"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/kesten.svg" width="100%" alt="Kesten-Goldie mechanism: contraction with rare bursts"></a></td>
-<td><a href="https://encapsulatorp.github.io/recaman/"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/profile/assets/readme/recaman.svg" width="100%" alt="Recaman arcs with the unvisited integers marked"></a></td>
+<td><a href="https://encapsulatorp.github.io/#kesten-goldie"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/kesten.svg" width="100%" alt="Kesten-Goldie mechanism: contraction with rare bursts"></a></td>
+<td><a href="https://encapsulatorp.github.io/recaman/"><img src="https://raw.githubusercontent.com/EncapsulatorP/.github/main/encapsulatorp-org-readme/profile/assets/readme/recaman.svg" width="100%" alt="Recaman arcs with the unvisited integers marked"></a></td>
 </tr>
 </table>
 
-Every figure is computed from the stated rule, not drawn by hand. The generator is in this repository at [`tools/gen_readme_svgs.py`](https://github.com/EncapsulatorP/.github/blob/main/tools/gen_readme_svgs.py). Each figure links to its live, adjustable version on the site.
+Every figure is computed from the stated rule, not drawn by hand. The generator is in this repository at [`tools/gen_readme_svgs.py`](https://github.com/EncapsulatorP/.github/blob/main/encapsulatorp-org-readme/tools/gen_readme_svgs.py). Each figure links to its live, adjustable version on the site.
 
 ---
 
