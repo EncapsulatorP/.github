@@ -29,6 +29,24 @@ EncapsulatorP explores mathematical structures through exact arguments, computat
 
 <sub>The order is editorial: exact statements first, then written arguments. Statuses for rows 4 and 5 are the atlas's own labels. Goldbach, twin primes and Collatz themselves remain open.</sub>
 
+## Most promising ideas · next treasure paths
+
+These are research directions, not additional proved results. We prioritize constructive proof attempts, independently checkable witnesses and reusable exact mathematics; an unresolved conjecture is not a failed project.
+
+| Path | Why it matters | Next decisive step | Status |
+| --- | --- | --- | --- |
+| [Primes → Goldbach → Möbius](https://encapsulatorp.github.io/#pirates-plan?route=R2) | The centre–gap coordinates and prime-polynomial coefficient identities give exact finite arithmetic; the next prize is a genuine uniform correlation bound. | Independently reproduce the count/CRT/χ4 fixtures; formalize the coefficient identities; then isolate the coupled Möbius error and prime-power contribution. | Exact identities · uniform bound open |
+| [Collatz → geometry → growth](https://encapsulatorp.github.io/#pirates-plan?route=R1) | A geometric witness can become a reusable, rigorous obstruction or construction, rather than merely an attractive projection. | Restart Rupert with a strict positive-clearance witness, an independent checker and translation-covariant cube/Noperthedron controls; then compare declared Collatz maps and clocks. | Finite witness search · general implications open |
+| [Tower layers → exact transport → transcendence](https://encapsulatorp.github.io/#pirates-plan?route=R3) | Alternating towers, logarithmic perturbations and prime-layer order offer small exact targets that can connect otherwise separate experiments. | Extract the c3._2z transport identity with explicit base and unit controls; recover the sign-flip theorem source; formalize the rational reduction before exploring conditional transcendence. | Exact/local and conditional targets · broader bridges open |
+| [Obstructions → constructive proofs](https://encapsulatorp.github.io/#pirates-plan?route=R4) | Recamán, bounded Diophantine searches and formal proof work can clarify exactly which assumption blocks a construction. | Build a typed obstruction ledger; freeze later Recamán holdouts; compare exact search with equal-budget orderings. | Finite experiments · general results open |
+| [Character channels → operators → spectra](https://encapsulatorp.github.io/#pirates-plan?route=R5) | χ4, Catalan/beta identities and spectral tools provide a route from arithmetic identities to precisely defined analytic objects. | Extract an exact beta/polylog capsule and state the missing operator and trace obligations; reproduce spectral controls before proposing a bridge. | Exact identities · operator bridge proposed |
+| [Exact small wins → proof automation](https://encapsulatorp.github.io/#pirates-plan?route=R7) | Validatron can turn verified mathematics into reusable Lean proof fixtures and investigate stronger or reformulated statements. | Pin source, assumptions, formal statement and Lean/mathlib replay; start with an exact arithmetic fixture, then try constructive proof variants and rank by evidence and effort. | Implementation roadmap · proofs require separate verification |
+| [Newton → growth → sensing](https://encapsulatorp.github.io/#pirates-plan?route=R8) | The exotic dynamics may yield a useful numerical instrument if the signal survives common definitions and matched controls. | Reproduce a bounded Newton–Collatz comparison with fixed horizon, branch and escape rules; only then test synthetic ranging at matched resources. | Exploratory · no sensing advantage established |
+
+**First expedition:** [Rupert → Validatron → Goldbach → Collatz lift → tower diagnostics → exact logarithmic transport](https://encapsulatorp.github.io/#pirates-plan?path=next-treasures). Keep at most two active research capsules; advance after their stated gates, not because a calendar date has passed.
+
+[All research routes and decision gates](https://github.com/EncapsulatorP/.github/blob/main/DECISION_TARGETS.md) · [Explore the connected research map](https://encapsulatorp.github.io/#repo-interlinks)
+
 ## Ranked repositories
 
 | Rank | Repository | What it is for | M / I / R |
@@ -126,7 +144,7 @@ Start with [Omega Stability](https://encapsulatorp.github.io/#atlas?entry=omega-
 
 **[Next treasures hunt planning →](https://encapsulatorp.github.io/#pirates-plan)**
 
-The complete 32-repository portfolio: searchable purposes, 43 typed connections, seven research routes, ranked targets, effort estimates and staged decision gates. Follow a repository to the reason it connects, the source evidence and the next work.
+The complete 32-repository portfolio: searchable purposes, 55 typed connections, eight research routes, ranked targets, effort estimates and staged decision gates. Follow a repository to the reason it connects, the source evidence and the next work.
 
 [Full organization decision register](https://github.com/EncapsulatorP/.github/blob/main/DECISION_TARGETS.md) · [Search repositories](https://encapsulatorp.github.io/#repo-register) · [Explore the graph](https://encapsulatorp.github.io/#repo-interlinks)
 
