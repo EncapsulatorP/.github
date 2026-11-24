@@ -132,7 +132,7 @@ Try m = 34: 34² − 1 = 1155 = 3 × 5 × 7 × 11, so μ(1155) = +1. But 33 = 3 
 
 ## Follow the spark. Open the mathematics.
 
-[![Omega Stability — animated three-layer expedition](https://encapsulatorp.github.io/assets/omega-stability-header.svg)](https://encapsulatorp.github.io/#atlas?entry=omega-stability)
+[![Omega Stability — animated kitesurfing expedition](https://encapsulatorp.github.io/assets/omega-stability-kitesurf.svg)](https://encapsulatorp.github.io/#atlas?entry=omega-stability)
 
 **[Enter the research atlas →](https://encapsulatorp.github.io/#atlas)** · source-linked threads, working exhibits, written arguments and next proof questions.
 
