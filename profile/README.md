@@ -10,7 +10,7 @@ EncapsulatorP explores mathematical structures through exact arguments, computat
 
 **[Best results](https://encapsulatorp.github.io/evidence/)** · **[Research atlas](https://encapsulatorp.github.io/#atlas)** · **[Fly the quest](https://encapsulatorp.github.io/treasure-hunt/quest/)** · **[Explore the mathematics → encapsulatorp.github.io](https://encapsulatorp.github.io/#home)**
 
-<a href="https://encapsulatorp.github.io/assets/convolution-kiss.m4a"><img src="https://encapsulatorp.github.io/assets/quest-song.svg" alt="Play Convolution Kiss, the quest song" width="430"></a>
+<a href="https://encapsulatorp.github.io/assets/media/Zebracorn_Adventures_Desktop_720p_under25MB.mp4"><img src="https://encapsulatorp.github.io/assets/quest-song.svg" alt="Play Convolution Kiss, the zebracorn quest video" width="430"></a>
 
 </div>
 
